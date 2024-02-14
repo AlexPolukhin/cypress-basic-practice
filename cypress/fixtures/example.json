@@ -4,5 +4,14 @@
   "body": "Fixtures are a great way to mock data for responses to routes",
   "title": "My Awesome Web Application",
   "default_text": "You have 15 characters left",
-  "selected_item": "Nothing selected"
+  "selected_item": "Nothing selected",
+  "first_block_title": ".click() and .dblClick()",
+  "first_block_text": "Click to highlight, double click to select",
+  "First_block_subtext": "Selected Item:Nothing selected",
+  "second_block_title": ".check() and .uncheck()",
+  "second_block_text": "0 checkboxes selected",
+  "third_block_title": ".select()",
+  "third_block_text": "Selected Item: Nothing selected",
+  "fourth_block_title": ".trigger('mouseover')",
+  "fourth_block_text": "Selected Item: Nothing selected"
 }
